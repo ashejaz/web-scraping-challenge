@@ -9,13 +9,13 @@ Article header and summary data was extracted from the following site: https://s
 A list of dictionaries was created to store this data which was then exported as a JSON file.
 
 - The script can be found in the 'part_1_mars_news.ipynb' file in the MarsNews folder.
-- The JSON file of extracted data can be found as 'news_list'.json in the MarsNews folder.
+- The JSON file of extracted data can be found as 'news_list.json' in the MarsNews folder.
 
 ## Part 2: MarsWeather
 
 A table of Mars weather data was extracted from the following site: https://static.bc-edx.com/data/web/mars_facts/temperature.html
 
-The data was then added to a Pandas DataFrame, datatypes corrected and analysis performed.
+The data was then added to a Pandas DataFrame, the datatypes corrected and analysis performed.
 
 The following results were found:
 - There are 12 months on Mars.
