@@ -1,6 +1,6 @@
 ## Overview
 
-For this challenge, Chrome DevTools was used to inspect two websites containing data about Mars, and BeautifulSoup was used to extract the html data. A series of analyses were then performed using Pandas and the relevant visualisations were created using Matplotlib.
+For this challenge, Chrome DevTools was used to inspect two websites containing data about Mars, and BeautifulSoup was used to extract the HTML data. A series of analyses were then performed using Pandas and the relevant visualisations were created using Matplotlib.
 
 ## Part 1: MarsNews
 
