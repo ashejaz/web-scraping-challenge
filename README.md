@@ -32,5 +32,10 @@ The following results were found:
 
 ![temp_days](https://github.com/ashejaz/web-scraping-challenge/assets/127614970/b2e3f2f6-b65d-4ab7-b3d7-d649c8916186)
 
+Once analysis had concluded, the DataFrame was exported as a CSV file.
+
+- The script used can be found in the 'part_2_mars_weather.ipynb' file in the MarsWeather folder.
+- The CSV file can be found as 'weather_data.csv' in the MarsWeather folder.
+  
 ## References
 The websites used in this challenge are operated by edX Boot Camps LLC with data retreived from https://mars.nasa.gov.
